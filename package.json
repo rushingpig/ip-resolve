@@ -1,0 +1,32 @@
+{
+  "name": "ip-resolve",
+  "version": "1.0.0",
+  "description": "description: a library to resolve ip.it can resolve the ip that you afford and validate it and then return the specific address",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rushingpig/ip-resolve"
+  },
+  "keywords": [
+    "ip",
+    "ip-resolve",
+    "iputil",
+    "iptools"
+  ],
+  "author": {
+    "name":"Eric.zhu",
+    "email":"rushingpig@163.com",
+    "url":"http://rushingpig.github.io/"
+
+
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rushingpig/ip-resolve/issues"
+  },
+  "homepage": "https://github.com/rushingpig/ip-resolve",
+  "preferGlobal":false
+}
